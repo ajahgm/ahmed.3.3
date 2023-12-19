@@ -1,0 +1,20 @@
+Ahmed Ahmed
+Project 3 (REDO)
+12/18/23
+
+How to compile:
+Run the "make" command to compile the oss and worker to get oss and worker excutables
+
+How to run:
+To run the program, simply do "./oss" with any parameters. For example, ./oss -n 5 -s 5 -t 8 -f
+
+How to open oss log:
+Once you run the program, it will create an oss_log.txt file. You can open this text file separately, but from the command line,
+you can do "cat oss_log.txt" and it will open the log within the terminal.
+
+
+
+I scrapped my original program since it was too dysfunctional, and I rewrote this from scratch.
+
+
+
